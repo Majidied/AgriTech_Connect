@@ -61,7 +61,7 @@ export default function Home() {
           Join the Agricultural Revolution in Morocco
         </h2>
         <p className="text-xl text-gray-600 mb-8">
-          Whether you're a farmer looking to modernize your operations or a consumer seeking fresh, local produce, 
+          Whether you&apos;re a farmer looking to modernize your operations or a consumer seeking fresh, local produce, 
           AgriTech Connect is here to bridge the gap and create a sustainable future for Moroccan agriculture.
         </p>
         <Button size="lg">
